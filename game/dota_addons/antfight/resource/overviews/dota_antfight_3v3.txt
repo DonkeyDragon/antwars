@@ -1,0 +1,8 @@
+dota_antfight_3v3
+{
+	material materials/overviews/dota_antfight_3v3.vmat
+	pos_x -5376
+	pos_y 5120
+	scale 10.000
+}
+

@@ -1,0 +1,8 @@
+antfight_3v3_01
+{
+	material materials/overviews/antfight_3v3_01.vmat
+	pos_x -5888
+	pos_y 5632
+	scale 11.500
+}
+
