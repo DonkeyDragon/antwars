@@ -12,5 +12,7 @@ Setup for custom Dota 2 remake of the SC:Brood War custom map Ant Wars.
 #### Credits: 
 
 Ishayu  - Owner of the orignal SC:Brood War custom map
+
 AndY    - Lua scripts
+
 Ferisii - Map files
