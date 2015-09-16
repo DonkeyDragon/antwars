@@ -1,0 +1,8 @@
+dota_antfight_5v5
+{
+	material materials/overviews/dota_antfight_5v5.vmat
+	pos_x -4864
+	pos_y 4864
+	scale 9.500
+}
+
